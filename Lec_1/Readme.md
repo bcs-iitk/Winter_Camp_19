@@ -24,4 +24,4 @@ You will need Python on your local machine to work through this tutorial. I reco
 * You can work with jupyter notebooks online as well open [Google Colab](https://colab.research.google.com)
 
 ### Tutorial on Python, SciPy, NumPy, Matplotlib
-* Open this [Link](python_tutorial.ipynb)
+* Open this [Link](python_tutorial.ipynb) for python tutorial and this [Link](numpy_matplot_tutorial.ipynb) for NumPy and Matplotlib tutorial.
