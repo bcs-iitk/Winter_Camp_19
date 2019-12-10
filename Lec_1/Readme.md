@@ -14,3 +14,14 @@ You will need Python on your local machine to work through this tutorial. I reco
 * Open terminal in linux or Anaconda CMD in windows and run ```conda create --name bcs_iitk python=3.7 anaconda``` to create a virtual environment with name **bcs_iitk**
 * To work inside this environment activate it before executing any python program, run ```conda activate bcs_iitk```
 * Once, you are done with your work exit the environment by running ```conda deactivate```
+
+## Workshop Contents
+### Intro to Jupyter Notebook/ Google Colab
+* Make a new directory ```mkdir bcs_iitk_winter_19```
+* Change your directory ```cd bcs_iitk_winter_19```
+* Run ```jupyter notebook``` in terminal (linux) or Anaconda CMD (windows)
+* This will open a link in your browser where you will work with the jupyter notebooks.
+* You can work with jupyter notebooks online as well open [Google Colab](https://colab.research.google.com)
+
+### Tutorial on Python, SciPy, NumPy, Matplotlib
+* Open this [Link](python_tutorial.ipynb)

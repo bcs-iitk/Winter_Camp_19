@@ -6,4 +6,4 @@ This repository contains all the lectures and workshop materials for the winter 
 
 | Date | Event Name | Link |
 | ------ | ------ | ------ |
-|10-12-2019|Lec 1: Anaconda, Jupyter Notebook, Google Colab, Python, Numpy, SciPy, Matplotlib|[Lec 1](Lec_1)
+|10-12-2019|Lec 1: Intro, Anaconda, Jupyter Notebook, Google Colab, Python, Numpy, SciPy, Matplotlib|[Lec 1](Lec_1)
